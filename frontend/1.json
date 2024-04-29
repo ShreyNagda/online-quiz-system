@@ -1,0 +1,14 @@
+[
+  {
+    "question_no": 1,
+    "text": "What is the common name of NaCl?",
+    "options": ["Table Salt", "Baking Soda", "Caustic Soda"],
+    "correct": "Table Salt"
+  },
+  {
+    "question_no": 2,
+    "text": "Is Rohit Sharma Captain of Indian Cricket Team?",
+    "options": ["True", "False"],
+    "correct": "True"
+  }
+]
